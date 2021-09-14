@@ -1,0 +1,102 @@
+[
+{
+  "directory": "C:/Users/eeeri/OneDrive/Documents/cmake_proj/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/coconut.dir/includes_CXX.rsp -g -Winvalid-pch -x c++-header -include C:/Users/eeeri/OneDrive/Documents/cmake_proj/build/CMakeFiles/coconut.dir/cmake_pch.hxx -o CMakeFiles\\coconut.dir\\cmake_pch.hxx.gch -c C:\\Users\\eeeri\\OneDrive\\Documents\\cmake_proj\\build\\CMakeFiles\\coconut.dir\\cmake_pch.hxx.cxx",
+  "file": "C:/Users/eeeri/OneDrive/Documents/cmake_proj/build/CMakeFiles/coconut.dir/cmake_pch.hxx.cxx"
+},
+{
+  "directory": "C:/Users/eeeri/OneDrive/Documents/cmake_proj/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/coconut.dir/includes_CXX.rsp -g -Winvalid-pch -include C:/Users/eeeri/OneDrive/Documents/cmake_proj/build/CMakeFiles/coconut.dir/cmake_pch.hxx -o CMakeFiles\\coconut.dir\\source\\main.cpp.obj -c C:\\Users\\eeeri\\OneDrive\\Documents\\cmake_proj\\source\\main.cpp",
+  "file": "C:/Users/eeeri/OneDrive/Documents/cmake_proj/source/main.cpp"
+},
+{
+  "directory": "C:/Users/eeeri/OneDrive/Documents/cmake_proj/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/coconut.dir/includes_CXX.rsp -g -Winvalid-pch -include C:/Users/eeeri/OneDrive/Documents/cmake_proj/build/CMakeFiles/coconut.dir/cmake_pch.hxx -o CMakeFiles\\coconut.dir\\source\\coco.cpp.obj -c C:\\Users\\eeeri\\OneDrive\\Documents\\cmake_proj\\source\\coco.cpp",
+  "file": "C:/Users/eeeri/OneDrive/Documents/cmake_proj/source/coco.cpp"
+},
+{
+  "directory": "C:/Users/eeeri/OneDrive/Documents/cmake_proj/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/coconut.dir/includes_CXX.rsp -g -Winvalid-pch -include C:/Users/eeeri/OneDrive/Documents/cmake_proj/build/CMakeFiles/coconut.dir/cmake_pch.hxx -o CMakeFiles\\coconut.dir\\source\\rr.cpp.obj -c C:\\Users\\eeeri\\OneDrive\\Documents\\cmake_proj\\source\\rr.cpp",
+  "file": "C:/Users/eeeri/OneDrive/Documents/cmake_proj/source/rr.cpp"
+},
+{
+  "directory": "C:/Users/eeeri/OneDrive/Documents/cmake_proj/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/coconut.dir/includes_CXX.rsp -g -Winvalid-pch -include C:/Users/eeeri/OneDrive/Documents/cmake_proj/build/CMakeFiles/coconut.dir/cmake_pch.hxx -o CMakeFiles\\coconut.dir\\source\\tt.cpp.obj -c C:\\Users\\eeeri\\OneDrive\\Documents\\cmake_proj\\source\\tt.cpp",
+  "file": "C:/Users/eeeri/OneDrive/Documents/cmake_proj/source/tt.cpp"
+},
+{
+  "directory": "C:/Users/eeeri/OneDrive/Documents/cmake_proj/build/out_packages/glfw/src",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X8EAA8~1.EXE -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -Wall -std=c99 -Wdeclaration-after-statement -o CMakeFiles\\glfw.dir\\context.c.obj -c C:\\Users\\eeeri\\OneDrive\\Documents\\cmake_proj\\out_packages\\glfw\\src\\context.c",
+  "file": "C:/Users/eeeri/OneDrive/Documents/cmake_proj/out_packages/glfw/src/context.c"
+},
+{
+  "directory": "C:/Users/eeeri/OneDrive/Documents/cmake_proj/build/out_packages/glfw/src",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X8EAA8~1.EXE -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -Wall -std=c99 -Wdeclaration-after-statement -o CMakeFiles\\glfw.dir\\init.c.obj -c C:\\Users\\eeeri\\OneDrive\\Documents\\cmake_proj\\out_packages\\glfw\\src\\init.c",
+  "file": "C:/Users/eeeri/OneDrive/Documents/cmake_proj/out_packages/glfw/src/init.c"
+},
+{
+  "directory": "C:/Users/eeeri/OneDrive/Documents/cmake_proj/build/out_packages/glfw/src",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X8EAA8~1.EXE -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -Wall -std=c99 -Wdeclaration-after-statement -o CMakeFiles\\glfw.dir\\input.c.obj -c C:\\Users\\eeeri\\OneDrive\\Documents\\cmake_proj\\out_packages\\glfw\\src\\input.c",
+  "file": "C:/Users/eeeri/OneDrive/Documents/cmake_proj/out_packages/glfw/src/input.c"
+},
+{
+  "directory": "C:/Users/eeeri/OneDrive/Documents/cmake_proj/build/out_packages/glfw/src",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X8EAA8~1.EXE -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -Wall -std=c99 -Wdeclaration-after-statement -o CMakeFiles\\glfw.dir\\monitor.c.obj -c C:\\Users\\eeeri\\OneDrive\\Documents\\cmake_proj\\out_packages\\glfw\\src\\monitor.c",
+  "file": "C:/Users/eeeri/OneDrive/Documents/cmake_proj/out_packages/glfw/src/monitor.c"
+},
+{
+  "directory": "C:/Users/eeeri/OneDrive/Documents/cmake_proj/build/out_packages/glfw/src",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X8EAA8~1.EXE -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -Wall -std=c99 -Wdeclaration-after-statement -o CMakeFiles\\glfw.dir\\vulkan.c.obj -c C:\\Users\\eeeri\\OneDrive\\Documents\\cmake_proj\\out_packages\\glfw\\src\\vulkan.c",
+  "file": "C:/Users/eeeri/OneDrive/Documents/cmake_proj/out_packages/glfw/src/vulkan.c"
+},
+{
+  "directory": "C:/Users/eeeri/OneDrive/Documents/cmake_proj/build/out_packages/glfw/src",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X8EAA8~1.EXE -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -Wall -std=c99 -Wdeclaration-after-statement -o CMakeFiles\\glfw.dir\\window.c.obj -c C:\\Users\\eeeri\\OneDrive\\Documents\\cmake_proj\\out_packages\\glfw\\src\\window.c",
+  "file": "C:/Users/eeeri/OneDrive/Documents/cmake_proj/out_packages/glfw/src/window.c"
+},
+{
+  "directory": "C:/Users/eeeri/OneDrive/Documents/cmake_proj/build/out_packages/glfw/src",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X8EAA8~1.EXE -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -Wall -std=c99 -Wdeclaration-after-statement -o CMakeFiles\\glfw.dir\\win32_init.c.obj -c C:\\Users\\eeeri\\OneDrive\\Documents\\cmake_proj\\out_packages\\glfw\\src\\win32_init.c",
+  "file": "C:/Users/eeeri/OneDrive/Documents/cmake_proj/out_packages/glfw/src/win32_init.c"
+},
+{
+  "directory": "C:/Users/eeeri/OneDrive/Documents/cmake_proj/build/out_packages/glfw/src",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X8EAA8~1.EXE -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -Wall -std=c99 -Wdeclaration-after-statement -o CMakeFiles\\glfw.dir\\win32_joystick.c.obj -c C:\\Users\\eeeri\\OneDrive\\Documents\\cmake_proj\\out_packages\\glfw\\src\\win32_joystick.c",
+  "file": "C:/Users/eeeri/OneDrive/Documents/cmake_proj/out_packages/glfw/src/win32_joystick.c"
+},
+{
+  "directory": "C:/Users/eeeri/OneDrive/Documents/cmake_proj/build/out_packages/glfw/src",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X8EAA8~1.EXE -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -Wall -std=c99 -Wdeclaration-after-statement -o CMakeFiles\\glfw.dir\\win32_monitor.c.obj -c C:\\Users\\eeeri\\OneDrive\\Documents\\cmake_proj\\out_packages\\glfw\\src\\win32_monitor.c",
+  "file": "C:/Users/eeeri/OneDrive/Documents/cmake_proj/out_packages/glfw/src/win32_monitor.c"
+},
+{
+  "directory": "C:/Users/eeeri/OneDrive/Documents/cmake_proj/build/out_packages/glfw/src",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X8EAA8~1.EXE -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -Wall -std=c99 -Wdeclaration-after-statement -o CMakeFiles\\glfw.dir\\win32_time.c.obj -c C:\\Users\\eeeri\\OneDrive\\Documents\\cmake_proj\\out_packages\\glfw\\src\\win32_time.c",
+  "file": "C:/Users/eeeri/OneDrive/Documents/cmake_proj/out_packages/glfw/src/win32_time.c"
+},
+{
+  "directory": "C:/Users/eeeri/OneDrive/Documents/cmake_proj/build/out_packages/glfw/src",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X8EAA8~1.EXE -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -Wall -std=c99 -Wdeclaration-after-statement -o CMakeFiles\\glfw.dir\\win32_thread.c.obj -c C:\\Users\\eeeri\\OneDrive\\Documents\\cmake_proj\\out_packages\\glfw\\src\\win32_thread.c",
+  "file": "C:/Users/eeeri/OneDrive/Documents/cmake_proj/out_packages/glfw/src/win32_thread.c"
+},
+{
+  "directory": "C:/Users/eeeri/OneDrive/Documents/cmake_proj/build/out_packages/glfw/src",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X8EAA8~1.EXE -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -Wall -std=c99 -Wdeclaration-after-statement -o CMakeFiles\\glfw.dir\\win32_window.c.obj -c C:\\Users\\eeeri\\OneDrive\\Documents\\cmake_proj\\out_packages\\glfw\\src\\win32_window.c",
+  "file": "C:/Users/eeeri/OneDrive/Documents/cmake_proj/out_packages/glfw/src/win32_window.c"
+},
+{
+  "directory": "C:/Users/eeeri/OneDrive/Documents/cmake_proj/build/out_packages/glfw/src",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X8EAA8~1.EXE -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -Wall -std=c99 -Wdeclaration-after-statement -o CMakeFiles\\glfw.dir\\wgl_context.c.obj -c C:\\Users\\eeeri\\OneDrive\\Documents\\cmake_proj\\out_packages\\glfw\\src\\wgl_context.c",
+  "file": "C:/Users/eeeri/OneDrive/Documents/cmake_proj/out_packages/glfw/src/wgl_context.c"
+},
+{
+  "directory": "C:/Users/eeeri/OneDrive/Documents/cmake_proj/build/out_packages/glfw/src",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X8EAA8~1.EXE -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -Wall -std=c99 -Wdeclaration-after-statement -o CMakeFiles\\glfw.dir\\egl_context.c.obj -c C:\\Users\\eeeri\\OneDrive\\Documents\\cmake_proj\\out_packages\\glfw\\src\\egl_context.c",
+  "file": "C:/Users/eeeri/OneDrive/Documents/cmake_proj/out_packages/glfw/src/egl_context.c"
+},
+{
+  "directory": "C:/Users/eeeri/OneDrive/Documents/cmake_proj/build/out_packages/glfw/src",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X8EAA8~1.EXE -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -Wall -std=c99 -Wdeclaration-after-statement -o CMakeFiles\\glfw.dir\\osmesa_context.c.obj -c C:\\Users\\eeeri\\OneDrive\\Documents\\cmake_proj\\out_packages\\glfw\\src\\osmesa_context.c",
+  "file": "C:/Users/eeeri/OneDrive/Documents/cmake_proj/out_packages/glfw/src/osmesa_context.c"
+}
+]

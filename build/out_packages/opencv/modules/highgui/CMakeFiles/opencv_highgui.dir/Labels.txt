@@ -1,0 +1,39 @@
+# Target labels
+ Main
+ opencv_highgui
+ Module
+# Source files and their labels
+C:/Users/eeeri/OneDrive/Documents/cmake_proj/out_packages/opencv/modules/highgui/include/opencv2/highgui.hpp
+ Main
+ opencv_highgui
+ Module
+C:/Users/eeeri/OneDrive/Documents/cmake_proj/out_packages/opencv/modules/highgui/include/opencv2/highgui/highgui.hpp
+ Main
+ opencv_highgui
+ Module
+C:/Users/eeeri/OneDrive/Documents/cmake_proj/out_packages/opencv/modules/highgui/include/opencv2/highgui/highgui_c.h
+ Main
+ opencv_highgui
+ Module
+C:/Users/eeeri/OneDrive/Documents/cmake_proj/out_packages/opencv/modules/highgui/src/backend.cpp
+ Main
+ opencv_highgui
+ Module
+C:/Users/eeeri/OneDrive/Documents/cmake_proj/out_packages/opencv/modules/highgui/src/window.cpp
+ Main
+ opencv_highgui
+ Module
+C:/Users/eeeri/OneDrive/Documents/cmake_proj/out_packages/opencv/modules/highgui/src/roiSelector.cpp
+ Main
+ opencv_highgui
+ Module
+C:/Users/eeeri/OneDrive/Documents/cmake_proj/out_packages/opencv/modules/highgui/src/window_w32.cpp
+ Main
+ opencv_highgui
+ Module
+C:/Users/eeeri/OneDrive/Documents/cmake_proj/out_packages/opencv/modules/highgui/src/precomp.hpp
+ Main
+ opencv_highgui
+ Module
+C:/Users/eeeri/OneDrive/Documents/cmake_proj/build/cvconfig.h
+C:/Users/eeeri/OneDrive/Documents/cmake_proj/build/opencv2/opencv_modules.hpp

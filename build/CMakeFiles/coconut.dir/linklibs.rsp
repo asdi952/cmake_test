@@ -1,0 +1,1 @@
+  -LC:/Users/eeeri/OneDrive/Documents/cmake_proj/out_packages/glfw/src  out_packages/glfw/src/libglfw3.a -lstrmiids -lquartz -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

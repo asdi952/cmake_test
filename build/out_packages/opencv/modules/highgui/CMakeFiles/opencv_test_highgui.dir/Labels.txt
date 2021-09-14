@@ -1,0 +1,17 @@
+# Target labels
+ Main
+ opencv_highgui
+ AccuracyTest
+# Source files and their labels
+C:/Users/eeeri/OneDrive/Documents/cmake_proj/out_packages/opencv/modules/highgui/test/test_gui.cpp
+ Main
+ opencv_highgui
+ AccuracyTest
+C:/Users/eeeri/OneDrive/Documents/cmake_proj/out_packages/opencv/modules/highgui/test/test_main.cpp
+ Main
+ opencv_highgui
+ AccuracyTest
+C:/Users/eeeri/OneDrive/Documents/cmake_proj/out_packages/opencv/modules/highgui/test/test_precomp.hpp
+ Main
+ opencv_highgui
+ AccuracyTest

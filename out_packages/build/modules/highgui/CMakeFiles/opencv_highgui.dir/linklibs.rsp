@@ -1,0 +1,1 @@
+ ../../lib/libopencv_videoio453.dll.a -lcomctl32 -lgdi32 -lole32 -lsetupapi -lws2_32 ../../lib/libopencv_imgcodecs453.dll.a ../../lib/libopencv_imgproc453.dll.a ../../lib/libopencv_core453.dll.a -luser32 -lgdi32 -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

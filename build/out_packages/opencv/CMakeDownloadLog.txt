@@ -1,0 +1,1 @@
+#use_cache "C:/Users/eeeri/OneDrive/Documents/cmake_proj/out_packages/opencv/.cache"

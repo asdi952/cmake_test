@@ -1,0 +1,2 @@
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ar.exe qc ..\lib\libquirc.a CMakeFiles/quirc.dir/src/decode.c.obj CMakeFiles/quirc.dir/src/quirc.c.obj CMakeFiles/quirc.dir/src/version_db.c.obj
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ranlib.exe ..\lib\libquirc.a
